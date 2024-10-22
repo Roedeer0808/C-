@@ -1,93 +1,93 @@
-﻿#include <iostream>
+﻿// #include <iostream>
+// 
+// using namespace std;
+// 
+// class Unit
+// {
+// protected:
+// 	int health;
+// 	int defense;
+// 
+// public:
+// 	Unit()
+// 	{
+// 		cout << "Create unit" << endl;
+// 	}
+// 
+// 	~Unit()
+// 	{
+// 		cout << "Realse unit" << endl;
+// 	}
+// };
+// 
+// class Marine : public Unit
+// {
+// private:
+// 	int attack;
+// public:
+// 	Marine()
+// 	{
+// 		health = 40;
+// 		defense = 0;
+// 		attack = 6;
+// 
+// 		cout << "Create Marine" << endl;
+// 
+// 	}
+// 	void Stats()
+// 	{
+// 		cout << "health : " << health << endl;
+// 		cout << "attack : " << attack << endl;
+// 		cout << "defense : " << defense << endl;
+// 	}
+// 	~Marine()
+// 	{
+// 		cout << "Realse marine" << endl;;
+// 
+// 
+// 	}
+// 
+// };
+// 
+// class Ghost : public Unit
+// {
+// private:
+// 	int attack;
+// public:
+// 	Ghost()
+// 	{
+// 		health = 5;
+// 		defense = 1;
+// 		attack = 8;
+// 	}
+// 	void Stats()
+// 	{
+// 		cout << "health : " << health << endl;
+// 		cout << "attack : " << attack << endl;
+// 		cout << "defense : " << defense << endl;
+// 	}
+// 
+// };
 
-using namespace std;
-
-class Unit
-{
-protected:
-	int health;
-	int defense;
-
-public:
-	Unit()
-	{
-		cout << "Create unit" << endl;
-	}
-
-	~Unit()
-	{
-		cout << "Realse unit" << endl;
-	}
-};
-
-class Marine : public Unit
-{
-private:
-	int attack;
-public:
-	Marine()
-	{
-		health = 40;
-		defense = 0;
-		attack = 6;
-
-		cout << "Create Marine" << endl;
-
-	}
-	void Stats()
-	{
-		cout << "health : " << health << endl;
-		cout << "attack : " << attack << endl;
-		cout << "defense : " << defense << endl;
-	}
-	~Marine()
-	{
-		cout << "Realse marine" << endl;;
-
-
-	}
-
-};
-
-class Ghost : public Unit
-{
-private:
-	int attack;
-public:
-	Ghost()
-	{
-		health = 5;
-		defense = 1;
-		attack = 8;
-	}
-	void Stats()
-	{
-		cout << "health : " << health << endl;
-		cout << "attack : " << attack << endl;
-		cout << "defense : " << defense << endl;
-	}
-
-};
-
-class Firebat : public Unit
-{
-private:
-	int attack;
-public:
-	firebat()
-	{
-		health = 5;
-		defense = 1;
-		attack = 8;
-	}
-	void Stats()
-	{
-		cout << "health : " << health << endl;
-		cout << "attack : " << attack << endl;
-		cout << "defense : " << defense << endl;
-	}
-
-};
+// class Firebat : public Unit
+// {
+// private:
+// 	int attack;
+// public:
+// 	firebat()
+// 	{
+// 		health = 5;
+// 		defense = 1;
+// 		attack = 8;
+// 	}
+// 	void Stats()
+// 	{
+// 		cout << "health : " << health << endl;
+// 		cout << "attack : " << attack << endl;
+// 		cout << "defense : " << defense << endl;
+// 	}
+// 
+// };
 
 int main()
 {

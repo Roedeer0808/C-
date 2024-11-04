@@ -1,0 +1,12 @@
+﻿  Paint.cpp
+C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Paint.h(10,7): error C2059: 구문 오류: ':'
+  (소스 파일 '../Program/Paint.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Paint.h(10,7): error C2334: ':' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 '../Program/Paint.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Paint.cpp(3,13): error C4596: '{ctor}': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Paint.cpp(7,1): error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  Pencil.cpp
+  Source.cpp
+  코드를 생성하고 있습니다...

@@ -1,7 +1,2 @@
-﻿  Hammer.cpp
-  Knife.cpp
-  Knuckles.cpp
-  Weapon.cpp
-  Source.cpp
-  코드를 생성하고 있습니다...
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\class6th (Polymorphism)\Source.cpp(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Knife.h': No such file or directory
+﻿  Source.cpp
+  class6th (Polymorphism).vcxproj -> C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\x64\Debug\class6th (Polymorphism).exe

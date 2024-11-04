@@ -1,2 +1,17 @@
 ﻿  Program.cpp
-  Program.vcxproj -> C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\x64\Debug\Program.exe
+C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(42,1): error C2628: 'Character' 다음에 'int'이(가) 올 수 없습니다. ';'이 있어야 합니다.
+C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(42,5): error C3874: 'main'의 반환 형식이 'int'이어야 하는데 'Character'입니다.
+C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(81,2): error C2440: 'return': 'int'에서 'Character'(으)로 변환할 수 없습니다.
+  C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(81,2):
+  'Character::Character': 모든 인수 형식을 변환할 수 있는 오버로드된 함수가 없습니다.
+  	C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(40,1):
+  	'Character::Character(const Character &)'일 수 있습니다.
+  		C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(81,2):
+  		'Character::Character(const Character &)': 인수 1을(를) 'int'에서 'const Character &'(으)로 변환할 수 없습니다.
+  			C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(81,9):
+  			원인: 'int'에서 'const Character'(으)로 변환할 수 없습니다.
+  			C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(81,9):
+  			변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+  	C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Program.cpp(81,2):
+  	인수 목록 '(int)'을(를) 일치시키는 동안
+  

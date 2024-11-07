@@ -3,24 +3,6 @@ C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Goliath.h(6,15): err
   (소스 파일 '../Program/Goliath.cpp'을(를) 컴파일하는 중)
   
   SiegeTank.cpp
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.h(7,13): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-  (소스 파일 '../Program/SiegeTank.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.h(7,13): warning C4183: 'Sigetahnk': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
-  (소스 파일 '../Program/SiegeTank.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.h(8,15): error C3668: 'SiegeTank::Move': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
-  (소스 파일 '../Program/SiegeTank.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.cpp(3,12): error C2039: 'SigeTank': 'SiegeTank'의 멤버가 아닙니다.
-  C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.h(5,7):
-  'SiegeTank' 선언을 참조하십시오.
-  
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.cpp(4,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.cpp(5,2): error C2065: 'attack': 선언되지 않은 식별자입니다.
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.cpp(6,2): error C2065: 'defense': 선언되지 않은 식별자입니다.
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.cpp(7,1): warning C4508: 'SigeTank': 함수는 값을 반환해야 하므로 'void' 반환 형식으로 간주됩니다.
-C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\SiegeTank.cpp(9,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
   Source.cpp
 C:\Users\minge\OneDrive\바탕 화면\programC++\C-\Program\Goliath.h(6,15): error C3668: 'Goliath::Move': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
   (소스 파일 'Source.cpp'을(를) 컴파일하는 중)
